@@ -1,4 +1,4 @@
-<img align="right" alt="coding" width="1000" src="https://d2ooyrflu7lhqd.cloudfront.net/boringowl_io_programmer_sitting_in_front_of_computer_in_realist_4b87e153_f152_4ef2_a20c_f6c7a1f7d9ce_1_086352e9ea.png?format=auto"><br><br>
+<img align="right" alt="coding" width="1000" height="400" src="https://d2ooyrflu7lhqd.cloudfront.net/boringowl_io_programmer_sitting_in_front_of_computer_in_realist_4b87e153_f152_4ef2_a20c_f6c7a1f7d9ce_1_086352e9ea.png?format=auto"><br><br>
 <h1 align="center">Hi 👋, I'm SUMIT KUMAR</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumit0802&label=Profile%20views&color=0e75b6&style=flat" alt="sumit0802" /> </p>
